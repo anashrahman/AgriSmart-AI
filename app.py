@@ -508,6 +508,6 @@ elif page == "About Project":
 
     st.markdown("---")
 
-    st.write("**Developer:** ____________________")
-    st.write("**College:** ____________________")
+    st.write("**Developer:** Anash Rahman")
+    st.write("**College:** Jamia Hamdard University, New Delhi")
     st.write("**Department:** Computer Science & Engineering")
